@@ -1,0 +1,4 @@
+venv
+venv/
+fastApi_start/__*
+fastApi_start/books.db
